@@ -1,5 +1,5 @@
 # zetabytetec.github.io
-Aplicativo para ler código html, css, javascript
+<!--Aplicativo para ler código html, css, javascript-->
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
